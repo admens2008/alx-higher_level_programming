@@ -24,4 +24,4 @@ class LockedClass:
             raise AttributeError(
                     "'LockedClass' object has no attribute '{}'".format(name))
         else:
-            object._setattr__(self, name, value)
+            object.__setattr__(self, name, value)
