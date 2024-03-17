@@ -1,6 +1,6 @@
 # Python - Object-relational mapping
 
-In this project, we got intrduced to object-relational mapping. It is used forvdatabase scripting. MySQLdb and SQLAlchemy was utilized to query, create, edit, and delete tables in MySQL.
+In this project, we got introduced to object-relational mapping. It is used forvdatabase scripting. MySQLdb and SQLAlchemy was utilized to query, create, edit, and delete tables in MySQL.
 
 ## Tests :heavy_check_mark:
 
